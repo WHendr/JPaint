@@ -55,7 +55,7 @@
   - I saw this thing that said that Call of Duty's killcam's aren't actual videos but instead perfect reanactments of every button press. So, I wanted to give it a try.
   - So essentially what this does is it "Saves" every command that is currently being used by CommandHistory then puts it into a "SaveFile" by pressing "Save". Which you can select by pressing "Load" which then makes the app clear all of the CommandHistory and then put all of the Commands in the "SaveFile" into CommandHistory thus recreating the "Save"
   - can be buggy with groups and other certain niche instances
-- Pick a shape (located in design.shapes.additionalShapes)
+- Pick a shape (located in design.shapes.additionalShapes) (These are hideous)
   - Pentagon
   - Hexagon
   - Heptagon
