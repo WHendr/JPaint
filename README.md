@@ -1,5 +1,7 @@
 # Jpaint
 
+# An old (Very bad) project I made during one of my classes covering design patterns
+
 5 design patterns I used throughout this project are: 
 ### The observer pattern 
 - ShapeList (ISubject) , SelectedList (ISubject), PaintCanvas(IObserver) 
